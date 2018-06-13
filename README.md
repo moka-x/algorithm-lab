@@ -9,7 +9,12 @@ Level: basic to hard (0-3)，source code.
 
 ### (1) Self_solution 80613 
 
- 
-- **python**：Time: 5165ms 
+**Complexity**
+		
+		O(n^2) | Brute Force
 
-- **C**： Time: 88ms
+**Language**
+	
+		python：Time: 5165ms 
+
+		C： Time: 88ms
