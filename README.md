@@ -24,12 +24,12 @@ You may assume that each input would have exactly one solution, and you may not 
 		
 	O(n^2) | Brute Force
 
- - **Language RunTime**
+ - **Language RunTime(Beat percent)**
 	
-	python: 5165ms | python3: 5444 ms
+	python: 5165ms(18.36%) | python3: 5444 ms(20.07%)
 [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python_mk.py)
 
-	C: 88ms 
+	C: 88ms(32.70%) 
 [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/c_mk.c)
 
 ### (2) Hash Table 80613 
@@ -39,10 +39,10 @@ You may assume that each input would have exactly one solution, and you may not 
 
  - **Language RunTime**
  	
-	python: 40ms 
+	python: 40ms(67.60%) 
 [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python_hash.py)
    
-    python3: 40ms 
+    python3: 40ms(97.41%) 
 [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python3_hash.py)
  	
 	
