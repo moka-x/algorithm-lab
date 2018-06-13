@@ -9,6 +9,7 @@ class Solution(object):
         dic = {}
         for i in range(0, length):
             temp = target - nums[i]
+            # python3: dic.__contains__()
             if (dic.has_key(temp)):
                 if i <= dic[temp]:
                     return [i, dic[temp]]
