@@ -15,9 +15,12 @@ Level: basic to hard (0-3)，source code.
 
 **Language RunTime**
 	
-	python: 5165ms 
+	python: 5165ms [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python_mk.py) 
 
-	C: 88ms
+	C: 88ms [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/c_mk.c)
+
+
+<!--
 
 ### **SourceCode**
 
@@ -28,8 +31,6 @@ Level: basic to hard (0-3)，source code.
  	
 	c [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/c_mk.c)
 
-
-<!--
 
 `<blockquote>`
 
