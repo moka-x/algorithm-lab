@@ -11,10 +11,10 @@ Level: basic to hard (0-3)，source code.
 
 **Complexity**
 		
-		O(n^2) | Brute Force
+	O(n^2) | Brute Force
 
-**Language**
+**Language RunTime**
 	
-		python：Time: 5165ms 
+	python: 5165ms 
 
-		C： Time: 88ms
+	C: 88ms
