@@ -1,5 +1,5 @@
 # algorithm-lab
-Level: basic to hard (0-3)，source code.
+
 
 # LeetCode
 
@@ -15,13 +15,26 @@ Level: basic to hard (0-3)，source code.
 
  - **Language RunTime**
 	
-	python: 5165ms 
+	python: 5165ms | python3: 5444 ms
 [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python_mk.py)
 
 	C: 88ms 
 [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/c_mk.c)
 
+### (2) Hash Table 80613 
+ - **Complexity**
+		
+	O(n) | One-pass Hash Table
 
+ - **Language RunTime**
+ 	
+	python: 40ms 
+[code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python_hash.py)
+   
+    python3: 40ms 
+[code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python3_hash.py)
+ 	
+	
 
 <!--
 ### **SourceCode**
@@ -36,8 +49,5 @@ Level: basic to hard (0-3)，source code.
 
 `<blockquote>`
 
- **HashMap**
  
- python [code]()
- c [code]()
 -->
