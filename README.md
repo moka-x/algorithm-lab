@@ -18,3 +18,21 @@ Level: basic to hard (0-3)，source code.
 	python: 5165ms 
 
 	C: 88ms
+
+**SourceCode**
+
+- **Brute Force**
+ 
+ 1. python [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/python_mk.py)
+ 2. c [code](https://github.com/moka-x/algorithm-lab/blob/master/Leetcode/01-TwoSum/c_mk.c)
+
+
+<!--
+
+`<blockquote>`
+
+ **HashMap**
+ 
+ 1. python [code]()
+ 2. c [code]()
+-->
